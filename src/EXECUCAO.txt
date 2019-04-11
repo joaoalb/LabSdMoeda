@@ -1,0 +1,23 @@
+EXECUTA NO TERMINAL 1:
+
+javac Calculadora.java
+javac CalculadoraServer.java
+rmic CalculadoraServer
+rmiregistry
+
+
+EXECUTA NO TERMINAL 2:
+
+javac Server.java
+java Server
+
+
+EXECUTA NO TERMINAL 3:
+
+javac Client.java
+java Client
+
+
+
+
+Teco teco
